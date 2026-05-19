@@ -31,15 +31,15 @@ html_code = """
         </h1>
         
         <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
-            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Hello_Kitty_logo.svg/1200px-Hello_Kitty_logo.svg.png" style="max-width: 120px; height: auto;">
+            <img src="">
         </div>
         
         <h2 style="color: #FF69B4; font-family: 'Comic Sans MS', cursive, sans-serif; margin: 0; text-align: center; font-size: 20px;">
-           Nuestro experimento 💘
+           💖💕💕💕💖
         </h2>
         
         <div style="text-align: center; margin-top: 15px;">
-            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW83b3A1ZXF5ZzZ0NXFpZ3J6b3RndXNnd296bXptMXF0ODg0Z3Z4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/C9v8pXp09vNmM/giphy.gif" style="max-width: 140px; height: auto;" alt="Hello Kitty Gif">
+            <img src="https://share.google/images/ZEuSU5J4kQrEndwT9" style="max-width: 140px; height: auto;" alt="Hello Kitty Gif">
         </div>
         
     </div>
