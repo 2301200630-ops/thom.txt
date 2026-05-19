@@ -35,11 +35,11 @@ html_code = """
         </div>
         
         <h2 style="color: #FF69B4; font-family: 'Comic Sans MS', cursive, sans-serif; margin: 0; text-align: center; font-size: 20px;">
-           💖💕💕💕💖
+           
         </h2>
         
         <div style="text-align: center; margin-top: 15px;">
-            <img src="https://share.google/images/ZEuSU5J4kQrEndwT9" style="max-width: 140px; height: auto;" alt="Hello Kitty Gif">
+            <img src="https://share.google/images/fDrfR4D6QUpZEz18A" style="max-width: 140px; height: auto;" alt="Hello Kitty Gif">
         </div>
         
     </div>
