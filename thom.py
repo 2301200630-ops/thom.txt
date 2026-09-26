@@ -39,7 +39,7 @@ html_code = """
         </h2>
         
         <div style="text-align: center; margin-top: 15px;">
-            <img src="https://ibb.co/Pvx5JGQS">
+            <img src="<a href="https://imgbb.com/"><img src="https://i.ibb.co/4nWjCRdQ/hellokitty.gif" alt="hellokitty" border="0"></a>">
         </div>
         
     </div>
