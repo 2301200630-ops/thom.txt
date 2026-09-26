@@ -39,7 +39,7 @@ html_code = """
         </h2>
         
         <div style="text-align: center; margin-top: 15px;">
-            <img src="https://share.google/images/fDrfR4D6QUpZEz18A" style="max-width: 140px; height: auto;" alt="Hello Kitty Gif">
+            <img src="https://ibb.co/Pvx5JGQS">
         </div>
         
     </div>
