@@ -9,7 +9,7 @@ html_code = """
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Para Thom 🎀💘</title>
+    <title>Thom.💘</title>
     <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Quicksand:wght@500;700&display=swap" rel="stylesheet">
     <style>
         :root {
@@ -117,18 +117,18 @@ html_code = """
 <body>
 
     <div class="hk-card" id="helloKittyMessageBox">
-        <button class="btn-close" onclick="document.getElementById('helloKittyMessageBox').style.display='none'">Cerrar 💖</button>
+        <button class="btn-close" onclick="document.getElementById('helloKittyMessageBox').style.display='none'">Cerrar.</button>
         
-        <h1>Te amo mi negro 💕</h1>
+        <h1>Mi Chulo. 💕</h1>
         
-        <p class="message">Eres mi persona favorita en el mundo ✨🎀</p>
+        <p class="message">Te amo mil millonessss. 💕</p>
         
         <div class="gif-container">
             <img src="https://i.ibb.co/4nWjCRdQ/hellokitty.gif" alt="Hello Kitty GIF">
         </div>
 
         <div class="footer-decor">
-            🎀🐾💖🐾🎀
+    
         </div>
     </div>
 
